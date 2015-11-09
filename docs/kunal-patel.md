@@ -10,4 +10,4 @@ hello for patelkunal-branch
 ### edit from github online
 
 
-git is beautiful..
+git is beautiful.. and beautiful as you use it
